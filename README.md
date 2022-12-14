@@ -1,8 +1,10 @@
 # Bouncing-Ball-Animation-Using-Maya
 #Aim:
+
 To animate a bouncing ball using Maya
 
 #Procedure:
+
 Step 1: Drop a simple polygon sphere into the scene.
 
 Step 2: To get started the first thing you will want to do is open up your Animation Preferences located at the bottom right of Maya.
