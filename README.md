@@ -1,9 +1,9 @@
-# Bouncing-Ball-Animation-Using-Maya
-#Aim:
+### Bouncing-Ball-Animation-Using-Maya
+### Aim:
 
 To animate a bouncing ball using Maya
 
-#Procedure:
+### Procedure:
 
 Step 1: Drop a simple polygon sphere into the scene.
 
@@ -25,7 +25,9 @@ Step 9: Use the graph editor to make the bounces look real in animation.
 
 Step 10: The high points of the bounces should have a tangent handle that is very wide, and tangent handles on the keyframes where the ball hits the ground should be brought inward like before.
 
-#Output:
+### Output:
+![Screenshot (57)](https://user-images.githubusercontent.com/94810884/207762532-9b8c5bf9-0ec9-4310-a70f-d3b98577834c.png)
 
-#Result:
+
+### Result:
 Therefore a bouncing ball is animated successfully using maya
